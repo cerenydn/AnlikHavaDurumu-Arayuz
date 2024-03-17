@@ -1,0 +1,118 @@
+body{
+  margin:0;
+  padding: 0;
+}
+
+.main-area{
+  height: 100%;
+  width: 100%;
+  background-color: E0FFFF;
+  align-items: center;
+}
+
+h3{
+  margin-left: 550px;
+  margin-top: 50px;
+ 
+}
+
+.main-box{
+
+  height: 100px;
+  width: 44%;
+  background-color: #E6E6FA	;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 381px;
+  margin-top: 30px;
+}
+
+.main-box p {
+
+  display: flex;
+  flex-direction: row;
+  margin-left: 35px;
+  margin-top: 25px;
+  font-size: 15px;
+  width: 115px;
+  
+}
+
+.box1{
+
+  height: 37px;
+  width: 60px;
+  margin-top: 26px;
+  margin-left: 25px;
+  border-radius: 10%;
+  
+}
+.box2{
+
+  height: 37px;
+  width: 60px;
+  margin-top: 26px;
+  margin-left: 15px;
+  border-radius: 10%;
+  
+}
+
+.button{
+    width: 60px;
+    height: 37px;
+    background-color:#191970	;
+    font-weight: 20;
+    font-size: 11px;
+    line-height: 12.81px;
+    color: white; 
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-right: 105px ;
+    
+}
+
+.bolum{
+  max-width: 55%;
+  height: 100%;
+  margin-left: 350px;
+  background-color: white;
+  display: flex;
+  margin-top: -10px;
+  justify-content: space-between;
+  align-content: space-between;
+  
+}
+ul {
+  list-style-type: none;
+}
+
+.time{
+  height: 100%;
+  width: 37%;
+  margin-left: -5px;
+  background-color: #F0FFFF;
+  margin-top: 10px;
+  padding-left: 5px;
+  
+}
+
+.windSpeed{
+  height: 100%;
+  width: 35%;
+  margin-left: 350px;
+  background-color: #F8F8FF;
+  margin-left: 193px;
+  margin-top: -22px;
+  padding-left: 5px;
+}
+
+.temperature{
+  height: 100%;
+  width: 30%;
+  margin-left: 350px;
+  background-color: #F0F8FF;
+  margin-top: -22px;
+  margin-left: 380px;
+  padding-left: 5px;
+}
+
